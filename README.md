@@ -1,3 +1,5 @@
+> ⚠️ **本仓库已废弃**：内容已并入 [agent-deploy](https://github.com/hpsks416/agent-deploy) 的 skills/skill-lifecycle-manager/ 子目录，请以 agent-deploy 为准。本仓库保留仅供历史归档。
+
 # skill-lifecycle-manager
 
 一套贯穿 skill 生老病死的元认知闭环。它不干具体业务，只做五件事：**触发判断 → 申请建立 → 分层 → 脚本化迁移 → 使用后迭代**。每一步的关键是「**先申请、后执行**」——绝不自动落地，人类始终是裁决者。
@@ -26,3 +28,4 @@
 ## License
 
 MIT License. See [LICENSE](LICENSE).
+
